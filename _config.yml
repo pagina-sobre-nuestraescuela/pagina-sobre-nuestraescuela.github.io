@@ -1,16 +1,13 @@
-# Welcome to Jekyll!
+# Bienvenidos a la pagina de nuestra escuela!
+Escuela Preparatoria No.18 "Mora Enseña"
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the
-# server process.
+# Aqui obtendras todo tipo de informacion sobre como se trabaja y que beneficios tiene sobre:
+# Docentes
+# Alumnos
+# Servicios
+# Inscripciones
 
-# theme settings
-theme: "lone-wolf-theme"
-remote_theme: # "manid2/lone-wolf-theme"
-bootswatch_theme: "united" # cerulean, spacelab, united
-
+# 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
 title: "Lone Wolf Theme"
